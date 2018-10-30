@@ -712,3 +712,89 @@ LogInit: Object subsystem initialized
 [2018.10.30-16.38.04:410][884]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
 [2018.10.30-16.38.10:065][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.10.30-16.38.10:143][104]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Game_MapC0379700478C67B44E0980A4D7F3CB3D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/Game_Map.umap'
+[2018.10.30-16.41.05:284][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-16.41.13:646][284]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.10.30-16.41.14:769][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-16.41.15:090][345]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Character1.Character1
+[2018.10.30-16.41.16:206][375]LogSlate: Window 'Character1*' being destroyed
+[2018.10.30-16.41.16:217][375]LogSlate: Window 'Character1*' being destroyed
+[2018.10.30-16.41.17:051][409]LogEditorViewport: Clicking Background
+[2018.10.30-16.41.17:555][434]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.10.30-16.41.18:427][474]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.10.30-16.41.18:990][500]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.10.30-16.41.20:858][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-16.41.36:572][202]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.10.30-16.41.38:722][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-16.41.40:075][351]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.10.30-16.41.59:340][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-16.42.07:546][278]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.10.30-16.42.09:028][311]LogSlate: Window '2DSideScrollerCharacter*' being destroyed
+[2018.10.30-16.42.09:033][311]LogSlate: Window '2DSideScrollerCharacter*' being destroyed
+[2018.10.30-16.42.09:695][338]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-16.42.09:712][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.30-16.42.09:712][338]PIE: New page: PIE session: Game_Map (Oct 30, 2018, 6:42:09 AM)
+[2018.10.30-16.42.09:712][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game_Map
+[2018.10.30-16.42.09:713][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2018.10.30-16.42.09:714][338]LogAIModule: Creating AISystem for world Game_Map
+[2018.10.30-16.42.09:714][338]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.10.30-16.42.09:714][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game_Map.Game_Map to /Game/Maps/UEDPIE_0_Game_Map.Game_Map (0.001995s)
+[2018.10.30-16.42.09:884][338]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.30-16.42.09:907][338]LogInit: FAudioDevice initialized.
+[2018.10.30-16.42.09:936][338]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.30-16.42.09:937][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game_Map.Game_Map up for play (max tick rate 0) at 2018.10.30-11.42.09
+[2018.10.30-16.42.09:938][338]LogWorld: Bringing up level for play took: 0.000588
+[2018.10.30-16.42.09:950][338]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Game_Map 0.175
+[2018.10.30-16.42.10:834][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-16.42.10:876][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.30-16.42.10:901][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-16.42.10:943][398]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.30-16.42.11:557][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-16.42.11:573][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.30-16.42.11:573][434]PIE: New page: PIE session: Game_Map (Oct 30, 2018, 6:42:11 AM)
+[2018.10.30-16.42.11:573][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game_Map
+[2018.10.30-16.42.11:575][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.10.30-16.42.11:575][434]LogAIModule: Creating AISystem for world Game_Map
+[2018.10.30-16.42.11:575][434]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.10.30-16.42.11:575][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game_Map.Game_Map to /Game/Maps/UEDPIE_0_Game_Map.Game_Map (0.002095s)
+[2018.10.30-16.42.11:602][434]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.30-16.42.11:626][434]LogInit: FAudioDevice initialized.
+[2018.10.30-16.42.11:659][434]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.30-16.42.11:660][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game_Map.Game_Map up for play (max tick rate 0) at 2018.10.30-11.42.11
+[2018.10.30-16.42.11:660][434]LogWorld: Bringing up level for play took: 0.000587
+[2018.10.30-16.42.11:673][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Game_Map -0.102
+[2018.10.30-16.42.11:991][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-16.42.12:034][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.30-16.42.12:056][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-16.42.12:099][458]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.30-16.42.14:703][592]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.10.30-16.47.35:692][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-16.47.36:260][684]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Character123785B024320C04F7D6EC995AEEF28BA.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character1.uasset'
+[2018.10.30-16.47.38:295][726]LogSlate: Window 'Save Content' being destroyed
+[2018.10.30-16.47.38:437][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter5A3EB3CA48C740A35B873B88537EBF1C.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.10.30-16.47.38:511][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Floor0AD96B3D4B605DF50676A09487469CF0.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Floor.uasset'
+[2018.10.30-16.47.38:577][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/SpritesC542B2C84C1CC5B320FFB4AB84095F14.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Sprites.uasset'
+[2018.10.30-16.47.38:601][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/CharacterED4C95824F0E19D5F04D308679544F22.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character.uasset'
+[2018.10.30-16.47.38:624][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Idle_SpritesCFF39F18417D027C6A3934814965C3D8.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Idle_Sprites.uasset'
+[2018.10.30-16.47.38:648][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Idle_Sprites_Sprite_0717A80B6445531036F31208F3C6EDEA6.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Idle_Sprites_Sprite_0.uasset'
+[2018.10.30-16.47.38:672][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Idle_Sprites_Sprite_1B3A7DA134B387DC2A0C772B55015704A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Idle_Sprites_Sprite_1.uasset'
+[2018.10.30-16.47.38:736][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Idle_Sprites_Sprite_2EC2F6F774ECE1379C542E988285DD375.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Idle_Sprites_Sprite_2.uasset'
+[2018.10.30-16.47.38:759][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_SpriteBBCD1C264C4D3AF6D8D92FB169ACF12B.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite.uasset'
+[2018.10.30-16.47.38:782][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_Sprite_Sprite_0872F70604C763DD8F544C29B95F81A18.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite_Sprite_0.uasset'
+[2018.10.30-16.47.38:801][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_Sprite_Sprite_1D6133FBD464BAE0E75E768AF03B78F20.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite_Sprite_1.uasset'
+[2018.10.30-16.47.38:820][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_Sprite_Sprite_2C9D869724E2F651736984BA3A91560D3.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite_Sprite_2.uasset'
+[2018.10.30-16.47.38:839][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_Sprite_Sprite_3FD6E8D6542CC82C39790FAA4D2ABDC75.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite_Sprite_3.uasset'
+[2018.10.30-16.47.38:857][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Jump_Sprite_Sprite_452C8756247FF0CC2B270BFA362F061F0.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Jump_Sprite_Sprite_4.uasset'
+[2018.10.30-16.47.38:877][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_SpritesB9C6BC654E129570F5227D8948C9171F.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites.uasset'
+[2018.10.30-16.47.38:895][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_0B4B7A0D0448CBE03DA0F13B060F7F9B5.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_0.uasset'
+[2018.10.30-16.47.38:913][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_10B3987B24AB44EF420139CADC559791E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_1.uasset'
+[2018.10.30-16.47.38:931][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_2921E7C5747347A17BE9AF18D1B59B230.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_2.uasset'
+[2018.10.30-16.47.38:950][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_3E1D12B7C45009C1B2247B18BB50E1A7C.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_3.uasset'
+[2018.10.30-16.47.38:969][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_4A783BC2840FE532F4DC07DABDDE8C375.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_4.uasset'
+[2018.10.30-16.47.38:988][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Run_Sprites_Sprite_544B75A5148C89908C0E11C8516DBC64A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Run_Sprites_Sprite_5.uasset'
+[2018.10.30-16.47.39:007][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Shoot_Sprites6FDDAD384E630F7B72FDBFAD4ADB3267.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Shoot_Sprites.uasset'
+[2018.10.30-16.47.39:025][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Shoot_Sprites_Sprite_0A6EA405148EA980DBC7AFE9499C58A70.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Shoot_Sprites_Sprite_0.uasset'
+[2018.10.30-16.47.39:044][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Shoot_Sprites_Sprite_1EF2DE9B84257B20908FE089DB91DC17D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Shoot_Sprites_Sprite_1.uasset'
+[2018.10.30-16.47.39:092][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Shoot_Sprites_Sprite_245CED82F4F4CB3F607CED9AB573A02AD.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Shoot_Sprites_Sprite_2.uasset'
+[2018.10.30-16.47.39:145][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Shoot_Sprites_Sprite_30065851C471112444FC573BF9EA36DF5.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Placeholder/Shoot_Sprites_Sprite_3.uasset'
+[2018.10.30-16.47.39:366][726]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/Game_MapFDB7521D4AA04B3C0B9259B04061600D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/Game_Map.umap'
+[2018.10.30-16.47.39:411][726]LogFileHelpers: Saving map 'Game_Map' took 0.243
