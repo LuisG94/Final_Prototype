@@ -1499,3 +1499,40 @@ LogInit: Object subsystem initialized
 [2018.10.30-17.54.01:430][731]BlueprintLog: New page: Compile BP_Ammo
 [2018.10.30-17.54.01:989][754]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/BP_Ammo78C17852487379BAAC70A3B964C0C013.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Ammo.uasset'
 [2018.10.30-17.54.04:002][865]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/current_game_map6027FDB044FAD5B5F9EE72B634163A49.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/current_game_map.umap'
+[2018.10.30-18.10.16:040][262]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 0 (Connection 31 seems to be dead!)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 1 (Closing connection 31)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.30-18.10.16:165][263]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 4 (Closing connection 32)
+[2018.10.30-18.27.37:057][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.30-18.27.37:472][277]LogHttp: Warning: 0000022335D0F4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.30-18.27.37:472][277]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.30-18.27.37:472][277]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 1 (Closing connection 33)
+[2018.10.30-20.01.11:013][ 13]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.30-20.01.11:135][ 14]LogHttp: Warning: 0000022335D0F4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.30-20.01.11:135][ 14]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 0 (Connection 64 seems to be dead!)
+[2018.10.30-20.01.11:135][ 14]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 1 (Closing connection 64)
+[2018.10.30-20.01.11:135][ 14]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.30-20.01.11:135][ 14]LogHttp: Warning: 0000022335D0F4C0: libcurl info message cache 3 (Closing connection 65)
+[2018.10.31-05.18.16:056][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.31-05.18.16:596][ 25]LogHttp: Warning: 0000022335D0FC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.31-05.18.16:597][ 25]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.31-05.18.16:597][ 25]LogHttp: Warning: 0000022335D0FC40: libcurl info message cache 1 (Closing connection 66)
+[2018.10.31-05.59.19:062][681]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.31-16.19.26:449][209]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.31-16.19.26:576][212]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BPCplusplus
+[2018.10.31-16.19.26:576][212]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-16.19.26:576][212]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.31-16.19.26:576][212]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-16.19.26:580][212]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.31-16.19.26:602][213]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Luis\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.31-16.30.40:155][122]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.31-16.30.40:161][122]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.31-16.30.43:301][461]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/current_game_map8478C9124CFE197AE9864CBCEB27AD05.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/current_game_map.umap'
+[2018.10.31-16.30.44:284][540]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.31-16.30.44:386][540]LogSlate: Window 'BP_Cplusplus - Unreal Editor' being destroyed
+[2018.10.31-16.30.44:388][540]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-16.30.44:656][541]Cmd: QUIT_EDITOR
+[2018.10.31-16.30.45:115][541]LogExit: Preparing to exit.
