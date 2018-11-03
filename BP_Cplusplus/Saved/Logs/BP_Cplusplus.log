@@ -1759,3 +1759,82 @@ Please see Output Log for details.
 [2018.11.01-18.17.41:545][795]BlueprintLog: New page: Compile 2DSideScrollerCharacter
 [2018.11.01-18.17.42:139][809]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter97DD508F4647241F235C298E9BD4ACD6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter.uasset'
 [2018.11.01-18.17.43:618][887]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_Lvl503120AF49AC531FE416CD914ECA1D74.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-18.18.37:328][932]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_LvlADEA645F458281F7AEC38AB3C0701F9F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-18.18.38:616][  8]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.11.01-18.18.39:307][ 28]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter30E3D8314C7E9E558BA634A4B3C7BDA0.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.11.01-18.18.40:292][ 87]BlueprintLog: New page: Compile First_Lvl
+[2018.11.01-18.18.41:067][110]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_Lvl5249DBAD4BA0F8B4B5BB228487FE59F0.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-18.18.41:090][110]LogFileHelpers: Saving map 'First_Lvl' took 0.258
+[2018.11.01-18.18.42:728][196]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_LvlF29C398343B2C779F51F26A5FB29A53A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-18.34.17:127][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.01-19.05.45:151][133]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.01-19.06.10:419][535]LogHttp: Warning: 0000020E4B9382C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.06.10:419][535]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 0 (Connection 77 seems to be dead!)
+[2018.11.01-19.06.10:420][535]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 1 (Closing connection 77)
+[2018.11.01-19.06.10:420][535]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.01-19.06.10:420][535]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.06.10:420][535]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 4 (Closing connection 78)
+[2018.11.01-19.08.10:449][977]LogHttp: Warning: 0000020E4B9382C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.08.10:449][977]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.08.10:449][977]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 1 (Closing connection 79)
+[2018.11.01-19.10.10:496][588]LogHttp: Warning: 0000020E4B9382C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.10.10:497][588]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.10.10:497][588]LogHttp: Warning: 0000020E4B9382C0: libcurl info message cache 1 (Closing connection 80)
+[2018.11.01-19.12.10:525][449]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.12.10:525][449]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.12.10:525][449]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 81)
+[2018.11.01-19.14.10:566][116]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.14.10:566][116]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.14.10:567][116]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 82)
+[2018.11.01-19.16.14:552][  4]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.16.14:552][  4]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.16.14:552][  4]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 83)
+[2018.11.01-19.18.24:236][204]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.18.24:236][204]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.18.24:236][204]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 84)
+[2018.11.01-19.20.33:845][404]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.20.33:845][404]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.20.33:845][404]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 85)
+[2018.11.01-19.22.43:569][604]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.22.43:569][604]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.22.43:570][604]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 86)
+[2018.11.01-19.24.53:266][803]LogHttp: Warning: 0000020E4B939300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-19.24.53:266][803]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-19.24.53:266][803]LogHttp: Warning: 0000020E4B939300: libcurl info message cache 1 (Closing connection 87)
+[2018.11.01-20.12.16:800][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-20.12.16:830][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.01-20.12.16:831][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-20.12.16:831][251]PIE: New page: PIE session: First_Lvl (Nov 1, 2018, 10:12:16 AM)
+[2018.11.01-20.12.16:832][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.01-20.12.16:838][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005897s)
+[2018.11.01-20.12.16:839][251]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.01-20.12.16:840][251]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2018.11.01-20.12.16:840][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.008565s)
+[2018.11.01-20.12.16:881][251]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.01-20.12.16:947][251]LogInit: FAudioDevice initialized.
+[2018.11.01-20.12.16:956][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.01-20.12.17:032][251]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.01-20.12.17:034][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 60) at 2018.11.01-15.12.17
+[2018.11.01-20.12.17:034][251]LogWorld: Bringing up level for play took: 0.001374
+[2018.11.01-20.12.17:054][251]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.641
+[2018.11.01-20.12.17:054][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.01-20.12.19:028][367]LogBlueprintUserMessages: [BP_checkpoint_2] X=297.460 Y=0.000 Z=163.051
+[2018.11.01-20.12.28:446][931]LogBlueprintUserMessages: [BP_checkpoint_2] X=256.046 Y=0.000 Z=163.051
+[2018.11.01-20.12.32:514][175]LogBlueprintUserMessages: [BP_checkpoint2_5] X=871.770 Y=0.000 Z=252.644
+[2018.11.01-20.12.32:880][197]LogBlueprintUserMessages: [BP_checkpoint_2] X=734.790 Y=0.000 Z=329.863
+[2018.11.01-20.12.33:048][207]LogBlueprintUserMessages: [BP_checkpoint2_5] X=634.790 Y=0.000 Z=389.280
+[2018.11.01-20.12.34:097][270]LogBlueprintUserMessages: [BP_checkpoint_2] X=315.472 Y=0.000 Z=163.051
+[2018.11.01-20.12.40:964][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.01-20.12.40:965][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.01-20.12.40:979][682]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.01-20.12.41:019][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.01-20.12.41:020][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.01-20.12.41:174][689]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.11.01-20.12.42:836][776]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_Lvl3179912146415CCEC2A4799F08300791.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-20.12.44:288][856]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacterA1877F3A4DE354F8D1A608AF9298C9F9.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.11.01-20.12.45:930][938]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_LvlE41F2D3443578C618AADF49170333F23.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.01-20.12.45:953][938]LogFileHelpers: Saving map 'First_Lvl' took 0.273
+[2018.11.01-20.12.46:295][958]BlueprintLog: New page: Compile First_Lvl
+[2018.11.01-20.12.47:645][ 31]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.11.01-20.28.03:106][697]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.03-00.09.29:186][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
