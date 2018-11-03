@@ -1838,3 +1838,11 @@ Please see Output Log for details.
 [2018.11.01-20.12.47:645][ 31]BlueprintLog: New page: Compile 2DSideScrollerCharacter
 [2018.11.01-20.28.03:106][697]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
 [2018.11.03-00.09.29:186][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.03-00.13.25:099][416]LogSlate: Window 'Save Content' being destroyed
+[2018.11.03-00.13.25:399][416]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Saved/First_Lvl5624B7FA43FA493E50BDD1B5453ED726.tmp' to '../../../../../../Users/Luis/Documents/GitHub/Final_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.03-00.13.25:428][416]LogFileHelpers: Saving map 'First_Lvl' took 0.295
+[2018.11.03-00.13.25:759][416]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.03-00.13.26:012][416]LogSlate: Window 'BP_Cplusplus - Unreal Editor' being destroyed
+[2018.11.03-00.13.26:015][416]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.03-00.13.27:119][417]Cmd: QUIT_EDITOR
+[2018.11.03-00.13.27:527][417]LogExit: Preparing to exit.
